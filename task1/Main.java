@@ -3,9 +3,6 @@ package SeminarsHW.HW3.task1;
 import java.util.ArrayList;
 import java.util.List;
 
-//Дан массив записей: наименование товара, цена, сорт. 
-// Найти наибольшую цену товаров 1го или 2го сорта среди товаров, 
-// название которых содержит «высший».
 
 public class Main {
     public static void main(String[] args) {
